@@ -1,5 +1,5 @@
 # Speed-Quiz-App
-Trabalho prático desenvolvido na plataforma Android com recurso à ferramenta Android Studio.
+Trabalho prático desenvolvido para Android com recurso à ferramenta Android Studio.
 
 ## Descrição
 Este projeto foi elaborado no âmbito da unidade curricular de Computação Móvel e Ubíqua (CMU).
