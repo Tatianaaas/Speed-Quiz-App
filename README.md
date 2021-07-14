@@ -1,4 +1,4 @@
-# CMU_TP
+# Speed-Quiz-App
 Trabalho prático desenvolvido na plataforma Android com recurso à ferramenta Android Studio.
 
 ## Descrição
